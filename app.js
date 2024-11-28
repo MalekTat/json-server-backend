@@ -47,5 +47,3 @@ server.listen(PORT, () => {
 });
 
 
-// Export the Server API
-module.exports = server
